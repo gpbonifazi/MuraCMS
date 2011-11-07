@@ -49,5 +49,3 @@ to your own modified versions of Mura CMS.
 		<cfoutput>#application.contentServer.parseURLRoot()#</cfoutput>
 	</cfif>
 </cfif>
-
-<cfdump var="#session#">
